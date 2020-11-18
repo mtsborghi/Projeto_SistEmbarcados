@@ -1,6 +1,6 @@
 # Projeto X
 
-Projeto desenvolvido para a disciplina de Sistemas Embarcados (SAA0356) por alunos de Engenharia Mecatrônica.
+Projeto desenvolvido para a disciplina de Sistemas Embarcados (SAA0356), desenvolvido pelos alunos do curso de Engenharia Mecatrônica.
 
 ### Alunos:
 
