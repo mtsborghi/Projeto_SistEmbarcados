@@ -7,7 +7,7 @@ Projeto desenvolvido para a disciplina de Sistemas Embarcados (SAA0356), desenvo
 * Edson Jose Brumatti Junior - 
 * Gabriel Guarino - 
 * Ícaro Almeida Aguiar - 9805042
-* Jorge Luis Faneco Paschoa - 
+* Jorge Luis Faneco Paschoa - 9866419
 * Matheus Borghi Ricardo de Oliveira - 
 
 ### Instituição:
